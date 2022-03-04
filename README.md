@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Hafeez</h1>
-<h3 align="center">A passionate frontend android developer from Pakistan</h3>
+<h3 align="center">Frontend Android Developer | Freelancer At Fiverr</h3>
 
 - 🌱 I’m currently learning **android development**
 
