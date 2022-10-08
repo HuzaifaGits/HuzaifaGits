@@ -1,9 +1,9 @@
 ![github](https://user-images.githubusercontent.com/99679997/194698073-88ba2d3f-3288-48f8-b1eb-5407acfa0319.png)
 
 <h1 align="center">Hi 👋, I'm Huzaifa Hafeez</h1>
-<h3 align="center">Frontend Android Developer | Freelancer At Fiverr</h3>
+<h3 align="center">Frontend Android Developer | Graphic Designer | Video Editor</h3>
 
-- 🌱 I’m currently learning **android development**
+- 🌱 I’m currently learning **android development | desktop development**
 
 - 📫 How to reach me **arainhuzaifa873@gmail.com**
 
