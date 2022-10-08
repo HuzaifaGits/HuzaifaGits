@@ -1,4 +1,5 @@
-![fb cover](https://user-images.githubusercontent.com/99679997/193602589-dde4690c-9971-4436-b305-747a5c1c71d3.png)
+![github](https://user-images.githubusercontent.com/99679997/194698073-88ba2d3f-3288-48f8-b1eb-5407acfa0319.png)
+
 <h1 align="center">Hi 👋, I'm Huzaifa Hafeez</h1>
 <h3 align="center">Frontend Android Developer | Freelancer At Fiverr</h3>
 
