@@ -72,6 +72,8 @@
      <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
     &emsp; 
     
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUZAIFAGITS_count=10&theme=tokyonight&layout=compact" alt="HUZAIFA :: Top Langs" /></p>
+    
 </p>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 
