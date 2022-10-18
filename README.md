@@ -30,14 +30,10 @@
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I am not attention seeker. 😎 
 
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Huzaifa&theme=gruvbox" alt="huzaifa"  /></p>
-
-<hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
-## 🛠️ My Skills
+## 🛠️  Skills
 
 ### 👉 Programming languages
 
@@ -45,7 +41,7 @@
   
 
   <a href="https://Android.dev/">
-    <img alt="ANDROID" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+    <img alt="ANDROID" src="data:image/png;base64,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"/>
   </a>
 &emsp;
 <a href="https://C++.org/">
