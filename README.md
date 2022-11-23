@@ -73,7 +73,7 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 &emsp;
-     <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+     <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
     &emsp; 
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HuzaifaGits&" alt="HuzaifaGits" /></p>
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HuzaifaGits&show_icons=true&locale=en" alt="HuzaifaGits" /></p>
